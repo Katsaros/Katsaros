@@ -34,9 +34,10 @@ However, I'm also intensively exploring such topics like (among other things): \
 - 📫 [E-mail](mailto:katsarosgiannis@gmail.com)
 - ⚡ [Personal Page](https://Katsaros.me)
 
-
+<!--
 ## My GitHub Stats
 
 <a href="https://github.com/katsaros">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=katsaros&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs,stars" alt="My github stats"/>
 </a>
+-->
