@@ -34,6 +34,15 @@ However, I'm also intensively exploring such topics like (among other things): \
 - 📫 [E-mail](mailto:katsarosgiannis@gmail.com)
 - ⚡ [Personal Page](https://Katsaros.me)
 
+- 🌱 Some of my Projects:
+- 🔗 [MrWebsite](https://mrwebsite.gr)
+- 🔗 [Availablr](https://availablr.com)
+- 🔗 [PilotAlert](https://pilotalert.com)
+- 🔗 [Ojobly](https://job-finder-app-1.herokuapp.com/api/search)
+- 🔗 [EasyAppointment](https://www.demo.mrwebsite.gr/easyappointment/dentist/)
+- 🔗 [WizardAnalysis](https://wizardanalysis.mrwebsite.gr/)
+- 🔗 [CRM+](https://katsaros.me/run/managestage/login.php)
+
 <!--
 ## My GitHub Stats
 
