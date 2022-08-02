@@ -34,7 +34,7 @@ However, I'm also intensively exploring such topics like (among other things): \
 - 📫 [E-mail](mailto:katsarosgiannis@gmail.com)
 - ⚡ [Personal Page](https://Katsaros.me)
 
-- 🌱 Some of my Projects:
+🌱 Some of my Projects:
 - 🔗 [MrWebsite](https://mrwebsite.gr)
 - 🔗 [Availablr](https://availablr.com)
 - 🔗 [PilotAlert](https://pilotalert.com)
