@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 However, I'm also intensively exploring such topics like (among other things): \
 🔹 System Design \
-🔹 Apache Kafka \
+🔹 Kafka Streams \
 🔹 AWS
 
 ## Find Me Around The Web 🌍
