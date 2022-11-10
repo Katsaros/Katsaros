@@ -33,7 +33,7 @@ However, I'm also intensively exploring such topics like (among other things): \
 - 🔗 [Linkedin](https://www.linkedin.com/in/giannis-katsaros/)
 - 📫 [E-mail](mailto:katsarosgiannis@gmail.com)
 - ⚡ [Personal Page](https://Katsaros.me)
-- ⚡ [Linktree](https://linktree.katsaros.me)
+- ⚡ [Cvtree](https://cvtr.ee/-/katsaros?r=github)
 
 🚧 Some of my Projects:
 - 🔗 [MrWebsite](https://mrwebsite.gr)
