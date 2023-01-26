@@ -30,19 +30,19 @@ However, I'm also intensively exploring such topics like (among other things): \
 
 ## Find Me Around The Web 🌍
 
+- 🌲 [Cvtree](https://cvtr.ee/-/katsaros?r=github)
 - 🔗 [Linkedin](https://www.linkedin.com/in/giannis-katsaros/)
 - 📫 [E-mail](mailto:katsarosgiannis@gmail.com)
 - ⚡ [Personal Page](https://Katsaros.me)
-- ⚡ [Cvtree](https://cvtr.ee/-/katsaros?r=github)
 
 🚧 Some of my Projects:
 - 🔗 [MrWebsite](https://mrwebsite.gr)
-- 🔗 [Availablr](https://availablr.com)
 - 🔗 [PilotAlert](https://pilotalert.com)
-- 🔗 [Ojobly](https://job-finder-app-1.herokuapp.com/api/search)
 - 🔗 [EasyAppointment](https://www.demo.mrwebsite.gr/easyappointment/dentist/)
 - 🔗 [WizardAnalysis](https://wizardanalysis.mrwebsite.gr/)
 - 🔗 [CRM+](https://katsaros.me/run/managestage/login.php)
+- 🔗 [Availablr Domain Name Generator API - currently down](#)
+- 🔗 [Ojobly Job Finder API - currently down](https://job-finder-app-1.herokuapp.com/api/search)
 
 <!--
 ## My GitHub Stats
