@@ -32,7 +32,7 @@ However, I'm also intensively exploring such topics like (among other things): \
 
 - 🌲 [Cvtree](https://cvtr.ee/-/katsaros?r=github)
 - 🔗 [Linkedin](https://www.linkedin.com/in/giannis-katsaros/)
-- 📫 [E-mail](mailto:katsarosgiannis@gmail.com)
+- 📫 [E-mail](mailto:katsarosgiannis1@gmail.com)
 - ⚡ [Personal Page](https://Katsaros.me)
 
 🚧 Some of my Projects:
