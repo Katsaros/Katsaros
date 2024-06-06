@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 My name is Giannis Katsaros
 
-🔹 Java Software Engineer at Sitecore
+🔹 Founder at MEGADEPLOY / Senior Software Engineer
 
 ### 🛠 &nbsp;Tech Stack (mostly)
 
