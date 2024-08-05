@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 My name is Giannis Katsaros
 
-🔹 Founder at MEGADEPLOY / Senior Software Engineer
+🔹 Founder of MEGADEPLOY / Senior Software Engineer
 
 ### 🛠 &nbsp;Tech Stack (mostly)
 
@@ -30,7 +30,6 @@ However, I'm also intensively exploring such topics like (among other things): \
 
 ## Find Me Around The Web 🌍
 
-- 🌲 [Cvtree](https://cvtr.ee/-/katsaros?r=github)
 - 🔗 [Linkedin](https://www.linkedin.com/in/giannis-katsaros/)
 - 📫 [E-mail](mailto:katsarosgiannis1@gmail.com)
 - ⚡ [Personal Page](https://Katsaros.me)
@@ -38,11 +37,13 @@ However, I'm also intensively exploring such topics like (among other things): \
 🚧 Some of my Projects:
 - 🔗 [MrWebsite](https://mrwebsite.gr)
 - 🔗 [PilotAlert](https://pilotalert.com)
-- 🔗 [Cvtree](https://cvtr.ee)
-<!-- - 🔗 [FindTop](https://findtop.gr) -->
+- 🔗 [FindTop](https://findtop.gr)
+- 🔗 [SiteStudio](https://sitestudio.gr)
+
 - 🔗 [EasyAppointment](https://www.demo.mrwebsite.gr/easyappointment/dentist/)
 - 🔗 [WizardAnalysis](https://wizardanalysis.mrwebsite.gr/)
 - 🔗 [CRM+](https://katsaros.me/run/managestage/login.php)
+- 🌲 [Cvtree - Create personal professional website in 2 minutes - currently down](https://cvtr.ee/-/katsaros?r=github)
 - 🔗 [Availablr Domain Name Generator API - currently down](#)
 - 🔗 [Ojobly Job Finder API - currently down](https://job-finder-app-1.herokuapp.com/api/search)
 
