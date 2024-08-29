@@ -1,18 +1,3 @@
-<!--
-**Katsaros/Katsaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--  Fun fact: ...
--->
-
 ### Hi there 👋 My name is Giannis Katsaros
 
 🔹 Founder of MEGADEPLOY / Senior Software Engineer
@@ -28,12 +13,15 @@ However, I'm also intensively exploring such topics like (among other things): \
 🔹 Kafka Streams \
 🔹 AWS
 
-## Find Me Around The Web 🌍
-
+### Find Me Around The Web 🌍
 - 🔗 [Linkedin](https://www.linkedin.com/in/giannis-katsaros/)
 - 📫 [E-mail](mailto:katsarosgiannis1@gmail.com)
 - ⚡ [Personal Page](https://Katsaros.me)
 
+As a side project, I'm currently developing ![Static Badge](https://img.shields.io/badge/WebJava-%233e5266?style=flat), my own Java Backend Framework. 
+ You can find more information in the repository [here](https://github.com/Katsaros/WebJava)
+.
+<!--
 🚧 Some of my Projects:
 - 🔗 [MrWebsite](https://mrwebsite.gr)
 - 🔗 [PilotAlert](https://pilotalert.com)
@@ -46,7 +34,7 @@ However, I'm also intensively exploring such topics like (among other things): \
 - 🌲 [Cvtree - Create personal professional website in 2 minutes - currently down](https://cvtr.ee/-/katsaros?r=github)
 - 🔗 [Availablr Domain Name Generator API - currently down](#)
 - 🔗 [Ojobly Job Finder API - currently down](https://job-finder-app-1.herokuapp.com/api/search)
-
+-->
 <!--
 ## My GitHub Stats
 
