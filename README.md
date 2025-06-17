@@ -16,7 +16,7 @@ However, I'm also intensively exploring such topics like (among other things): \
 ### Find Me Around The Web 🌍
 - 🔗 [Linkedin](https://www.linkedin.com/in/giannis-katsaros/)
 - 📫 [E-mail](mailto:katsarosgiannis1@gmail.com)
-- ⚡ [Personal Page](https://Katsaros.me)
+- ⚡ [Personal Page](https://gianniskatsaros.com)
 
 As a side project, I'm currently developing ![Static Badge](https://img.shields.io/badge/WebJava-%233e5266?style=flat), my own Java Backend Framework. 
  You can find more information in the repository [here](https://github.com/Katsaros/WebJava)
